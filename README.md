@@ -5,4 +5,4 @@ A PowerShell guy from the UK. Follow me on Mastodon at https://masto.ai/@doctord
 More here later!
 
 
-And a ti8p of the hat to https://github.com/simonw
+And a tip of the hat to https://github.com/simonw
