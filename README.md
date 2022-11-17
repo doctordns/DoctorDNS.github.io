@@ -1,2 +1,2 @@
-# your-DoctorDNS.github.io
-masto verrify
+#DoctorDNS.github.io
+masto verrify repo
